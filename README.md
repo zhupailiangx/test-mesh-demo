@@ -105,7 +105,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td width=88 style='width:66pt'></td>
  </tr>
  
- 
+ Linux大小核性能影响
  <table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
  collapse;table-layout:fixed;width:144pt'>
  <col width=64 span=3 style='width:48pt'>
