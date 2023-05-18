@@ -22,6 +22,7 @@
 * 系统配置->引导->高级选项->处理器个数
 
 ## 测试结果
+针对ADL 12700 12核（8P，4E）,
 MLS算法采用30次循环实验，取平均时间作为对比指标
 <table border=0 cellpadding=0 cellspacing=0 width=532 style='border-collapse:
  collapse;table-layout:fixed;width:399pt'>
