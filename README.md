@@ -107,14 +107,12 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  
  
  
- ---
- 
- Linux大小核性能影响
+
  <table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
  collapse;table-layout:fixed;width:144pt'>
  <col width=64 span=3 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td rowspan=2 height=40 class=xl69 width=64 style='height:30.0pt;width:48pt'>time</td>
+  <td rowspan=2 height=40 class=xl69 width=64 style='height:30.0pt;width:48pt'>Linux time</td>
   <td class=xl70 width=64 style='border-left:none;width:48pt'>12P+4E</td>
   <td class=xl70 width=64 style='border-left:none;width:48pt'>16P</td>
  </tr>
