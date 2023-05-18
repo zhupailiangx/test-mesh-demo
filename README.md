@@ -8,11 +8,14 @@ Performance exploration
 * make -j8
 * ./voxel_grid.cpp ../cloud_denoised.pcd
 
-## 测试不同核数和不同线程数对性能的影响
-### Linux 隔离物理核
+## 设置隔离核
+### Linux 隔离核
 * sudo nano /etc/default/grub
+* GRUB_CMDLINE_LINUX_DEFAULT添加isolcpus=18,19
+* ctrl+X 保存退出
 * sudo update-grub
 * reboot
-### windows 
+### windows 隔离核
 * 系统配置->引导->高级选项->处理器个数
-### 测试结果
+
+## 测试结果
