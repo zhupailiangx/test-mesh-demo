@@ -104,6 +104,29 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td width=88 style='width:66pt'></td>
   <td width=88 style='width:66pt'></td>
  </tr>
+ 
+ 
+ <table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
+ collapse;table-layout:fixed;width:144pt'>
+ <col width=64 span=3 style='width:48pt'>
+ <tr height=20 style='height:15.0pt'>
+  <td rowspan=2 height=40 class=xl69 width=64 style='height:30.0pt;width:48pt'>time</td>
+  <td class=xl70 width=64 style='border-left:none;width:48pt'>12P+4E</td>
+  <td class=xl70 width=64 style='border-left:none;width:48pt'>16P</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl70 style='height:15.0pt;border-top:none;border-left:
+  none'>603</td>
+  <td class=xl70 style='border-top:none;border-left:none'>547</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
  <![endif]>
 </table>
 
