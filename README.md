@@ -5,8 +5,8 @@ Performance exploration
 
 
 ## Linux
-** mkdir build
-** cd build
-** cmake ..
-** make -j8
-** ./voxel_grid.cpp ../cloud_denoised.pcd
+* mkdir build
+* cd build
+* cmake ..
+* make -j8
+* ./voxel_grid.cpp ../cloud_denoised.pcd
