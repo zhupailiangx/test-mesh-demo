@@ -1,6 +1,6 @@
 # test-oneapi-Openmp-MLS
 ## 引言
-本示例旨在分析CPU数量和线程数量在Windows和Linux上的性能差异，进而帮助分析Linux和Windows上MLS算法性能差异较大的问题。
+本示例旨在分析CPU数量和线程数量在Windows和Linux上对MLS算法的性能影响。
 
 ## Linux
 * mkdir build
@@ -8,6 +8,8 @@
 * cmake ..
 * make -j8
 * ./voxel_grid.cpp ../cloud_denoised.pcd
+## Windows
+* 运行bat文件
 
 ## 设置隔离核
 ### Linux 隔离核
