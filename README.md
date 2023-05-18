@@ -1,5 +1,6 @@
 # test-oneapi-Openmp-MLS
-Performance exploration
+## 引言
+本示例旨在分析CPU数量和线程数量在Windows和Linux上的性能差异，进而帮助分析Linux和Windows上MLS算法性能差异较大的问题。
 
 ## Linux
 * mkdir build
