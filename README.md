@@ -108,27 +108,32 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  
  
 
- <table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
- collapse;table-layout:fixed;width:144pt'>
- <col width=64 span=3 style='width:48pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=256 style='border-collapse:
+ collapse;table-layout:fixed;width:192pt'>
+ <col width=64 span=4 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td rowspan=2 height=40 class=xl69 width=64 style='height:30.0pt;width:48pt'>Linux time</td>
-  <td class=xl70 width=64 style='border-left:none;width:48pt'>12P+4E</td>
-  <td class=xl70 width=64 style='border-left:none;width:48pt'>16P</td>
+  <td colspan=2 height=20 class=xl68 width=128 style='height:15.0pt;width:96pt'>Linux</td>
+  <td colspan=2 class=xl68 width=128 style='border-left:none;width:96pt'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl70 style='height:15.0pt;border-top:none;border-left:
-  none'>603</td>
-  <td class=xl70 style='border-top:none;border-left:none'>547</td>
+  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>4P</td>
+  <td class=xl68 style='border-top:none;border-left:none'>4E</td>
+  <td class=xl68 style='border-top:none;border-left:none'>4P</td>
+  <td class=xl68 style='border-top:none;border-left:none'>4E</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>1538</td>
+  <td class=xl68 style='border-top:none;border-left:none'>2235</td>
+  <td class=xl68 style='border-top:none;border-left:none'>2701</td>
+  <td class=xl68 style='border-top:none;border-left:none'>2738</td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
  </tr>
- <![endif]>
-</table>
  <![endif]>
 </table>
 
