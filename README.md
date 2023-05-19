@@ -49,11 +49,11 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl66 align=right style='height:15.0pt;border-top:none'>20</td>
-  <td class=xl66 align=right style='border-top:none;border-left:none'>1226</td>
+  <td class=xl66 align=right style='border-top:none;border-left:none'>1278</td>
   <td class=xl67 align=right style='border-top:none;border-left:none'>526</td>
   <td class=xl66 align=right style='border-top:none;border-left:none'>20</td>
   <td class=xl68 align=right style='border-top:none;border-left:none'>526</td>
-  <td class=xl66 align=right style='border-top:none;border-left:none'>1226</td>
+  <td class=xl66 align=right style='border-top:none;border-left:none'>1278</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl66 align=right style='height:15.0pt;border-top:none'>18</td>
