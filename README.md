@@ -14,7 +14,9 @@
 * make -j8
 * ./voxel_grid.cpp ../cloud_denoised.pcd
 ## Windows
-* 运行bat文件
+* 打开PowerShell, cmd.exe "/K" '"C:\Program Files (x86)\Intel\oneAPI\setvars.bat" && powers
+* ./build_mesh.bat
+* ./run_mesh.bat
 
 ## 设置隔离核
 ### Linux 隔离核
