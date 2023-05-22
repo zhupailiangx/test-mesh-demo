@@ -18,8 +18,10 @@
 * ctrl+X 保存退出
 * sudo update-grub
 * reboot
-### windows 隔离核
+### Windows 隔离核
 * 系统配置->引导->高级选项->处理器个数
+### Windows指定CPU运行
+* 任务管理器->详细信息->devenv.exe->设置相关性
 
 ## 测试结果
 针对ADL 12700 12核（8P，4E）,
