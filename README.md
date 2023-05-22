@@ -14,9 +14,9 @@
 * ./build_mesh.bat
 * ./run_mesh.bat
 ## Vtune Threading
-linux
+**linux 分析**
 ![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/802944b1-b30f-4498-b124-b0ce32df7408)
-windows
+**Windows 分析**
 ![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/3a20f2df-27bd-4818-9bde-c98475553704)
 
 由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
