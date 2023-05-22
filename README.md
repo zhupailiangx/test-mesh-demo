@@ -3,6 +3,7 @@
 本示例旨在分析CPU数量和线程数量在Windows和Linux上对MLS算法的性能影响。
 ![Screenshot from 2023-05-19 00-52-04](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/e3ab2aa9-a843-43d8-b7c2-957dba1c4b8e)
 
+由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
 ## Linux
 * mkdir build
 * cd build
