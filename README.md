@@ -1,11 +1,7 @@
 # test-oneapi-Openmp-MLS
 ## 引言
 本示例旨在分析CPU数量和线程数量在Windows和Linux上对MLS算法的性能影响。
-![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/802944b1-b30f-4498-b124-b0ce32df7408)
 
-
-
-由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
 ## Linux
 * source /opt/intel/oneapi/setvars.sh
 * mkdir build
@@ -17,7 +13,11 @@
 * 打开PowerShell, cmd.exe "/K" '"C:\Program Files (x86)\Intel\oneAPI\setvars.bat" && powers
 * ./build_mesh.bat
 * ./run_mesh.bat
+## Vtune Threading
+![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/802944b1-b30f-4498-b124-b0ce32df7408)
+![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/3a20f2df-27bd-4818-9bde-c98475553704)
 
+由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
 ## 设置隔离核
 ### Linux 隔离核
 * sudo nano /etc/default/grub
