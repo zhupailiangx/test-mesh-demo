@@ -7,6 +7,7 @@
 
 由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
 ## Linux
+* source /opt/intel/oneapi/setvars.sh
 * mkdir build
 * cd build
 * cmake ..
