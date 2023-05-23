@@ -214,28 +214,47 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  
 ### P 核和E核对性能的影响
 
-<table border=0 cellpadding=0 cellspacing=0 width=256  style='border-collapse:
- collapse;table-layout:fixed;width:192pt'>
- <col width=64 span=4 style='width:48pt'>
+
+
+
+<table border=0 cellpadding=0 cellspacing=0 width=512 style='border-collapse:
+ collapse;table-layout:fixed;width:384pt'>
+ <col width=64 span=8 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  
-  <td colspan=2 height=20 class=xl68 width=128 align='center' style='height:15.0pt;width:96pt'>Linux</td>
-  <td colspan=2 class=xl68 width=128 align='center' style='border-left:none;width:96pt'>Windows</td>
+  <td colspan=8 height=20 class=xl69 width=512 align='center'  style='height:15.0pt;width:384pt'>P
+  core VS E core</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td colspan=4 height=20 class=xl74 align='center'  style='border-right:.5pt solid black;
+  height:15.0pt'>Linux</td>
+  <td colspan=4 class=xl68 align='center' style='border-left:none'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 style='height:15.0pt;border-top:none'>4P</td>
   <td class=xl68 style='border-top:none;border-left:none'>4E</td>
+  <td class=xl68 style='border-top:none;border-left:none'>1P</td>
+  <td class=xl68 style='border-top:none;border-left:none'>1E</td>
   <td class=xl68 style='border-top:none;border-left:none'>4P</td>
   <td class=xl68 style='border-top:none;border-left:none'>4E</td>
+  <td class=xl68 style='border-top:none;border-left:none'>1P</td>
+  <td class=xl68 style='border-top:none;border-left:none'>1E</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 style='height:15.0pt;border-top:none'>1538</td>
   <td class=xl68 style='border-top:none;border-left:none'>2235</td>
+  <td class=xl68 style='border-top:none;border-left:none'>4319</td>
+  <td class=xl68 style='border-top:none;border-left:none'>7884</td>
   <td class=xl68 style='border-top:none;border-left:none'>2126</td>
   <td class=xl68 style='border-top:none;border-left:none'>2738</td>
+  <td class=xl68 style='border-top:none;border-left:none'>5565</td>
+  <td class=xl68 style='border-top:none;border-left:none'>9313</td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
@@ -244,7 +263,6 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <![endif]>
 </table>
 
-</body>
 
 ## 总结
 * Linux在20个核和20个线程的参数下，性能最佳
