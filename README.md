@@ -23,33 +23,37 @@
   <td height=20 class=xl67 width=210 style='height:15.0pt;width:158pt'>Metrics</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Linux</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Windows</td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
   <td class=xl71 style='border-top:none;border-left:none'>5.383s</td>
   <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
-
+  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective CPU
   Utilization</td>
   <td class=xl73 style='border-top:none;border-left:none'>6.10%</td>
   <td class=xl73 style='border-top:none;border-left:none'>23.40%</td>
-
+  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and
   Overhead Time</td>
   <td class=xl71 style='border-top:none;border-left:none'>6.35s</td>
   <td class=xl71 style='border-top:none;border-left:none'>2.642</td>
-
+  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
   poor CPU Utilization</td>
   <td class=xl71 style='border-top:none;border-left:none'>96.6s</td>
   <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
-
+  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=80 style='height:60.0pt;mso-xlrowspan:4'>
   <td height=80 colspan=7 style='height:60.0pt;mso-ignore:colspan'></td>
@@ -71,9 +75,7 @@
  <![endif]>
 </table>
 
-
 </body>
-
 
 ### linux 分析
 
