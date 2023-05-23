@@ -200,7 +200,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
   poor CPU Utilization</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.159</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2.159s</td>
   <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
  </tr>
  <![if supportMisalignedColumns]>
