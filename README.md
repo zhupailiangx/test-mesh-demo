@@ -15,59 +15,40 @@
 * ./run_mesh.bat
 ## Vtune Threading
 
-<table border=0 cellpadding=0 cellspacing=0 width=594 style='border-collapse:
- collapse;table-layout:fixed;width:446pt'>
- <col width=210 style='mso-width-source:userset;mso-width-alt:7680;width:158pt'>
- <col width=64 span=6 style='width:48pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
+ collapse;table-layout:fixed;width:144pt'>
+ <col width=64 span=3 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl67 width=210 style='height:15.0pt;width:158pt'>Metrics</td>
+  <td height=20 class=xl67 width=64 style='height:15.0pt;width:48pt'>Metrics</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Linux</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Windows</td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Ti<span
+  style='display:none'>me</span></td>
   <td class=xl71 style='border-top:none;border-left:none'>5.383s</td>
   <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
-  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective CPU
-  Utilization</td>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective C<span
+  style='display:none'>PU Utilization</span></td>
   <td class=xl73 style='border-top:none;border-left:none'>6.10%</td>
   <td class=xl73 style='border-top:none;border-left:none'>23.40%</td>
-  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and
-  Overhead Time</td>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and O<span
+  style='display:none'>verhead Time</span></td>
   <td class=xl71 style='border-top:none;border-left:none'>6.35s</td>
   <td class=xl71 style='border-top:none;border-left:none'>2.642</td>
-  <td colspan=4 style='mso-ignore:colspan'></td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
-  poor CPU Utilization</td>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time <span
+  style='display:none'>with poor CPU Utilization</span></td>
   <td class=xl71 style='border-top:none;border-left:none'>96.6s</td>
   <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
-  <td colspan=4 style='mso-ignore:colspan'></td>
- </tr>
- <tr height=80 style='height:60.0pt;mso-xlrowspan:4'>
-  <td height=80 colspan=7 style='height:60.0pt;mso-ignore:colspan'></td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 colspan=6 style='height:15.0pt;mso-ignore:colspan'></td>
-  <td class=xl70></td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
-  <td width=210 style='width:158pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
