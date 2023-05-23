@@ -83,6 +83,7 @@ Linux Spin and Overhead 时间长。
 * 任务管理器->详细信息->devenv.exe->设置相关性
 
 ## 测试结果
+### Threads 和 Cores 数量对MLS性能影响
 针对ADL 12700 12核（8P，4E）,
 MLS算法采用30次循环实验，取平均时间作为对比指标
 <table border=0 cellpadding=0 cellspacing=0 width=532 style='border-collapse:
@@ -165,9 +166,8 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td width=88 style='width:66pt'></td>
   <td width=88 style='width:66pt'></td>
  </tr>
- 
- &nbsp;
- windows 14个cpu和20个cpu对比
+
+### Windows14个cpu和20个cpu对比
  
  <table border=0 cellpadding=0 cellspacing=0 width=338 style='border-collapse:
  collapse;table-layout:fixed;width:254pt'>
