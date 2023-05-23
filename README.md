@@ -169,11 +169,11 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  
  
 
-<table border=0 cellpadding=0 cellspacing=0 width=256 style='border-collapse:
+<table border=0 cellpadding=0 cellspacing=0 width=256 align='center' style='border-collapse:
  collapse;table-layout:fixed;width:192pt'>
  <col width=64 span=4 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td style="text-align:center">-</td>
+  
   <td colspan=2 height=20 class=xl68 width=128 style='height:15.0pt;width:96pt'>Linux</td>
   <td colspan=2 class=xl68 width=128 style='border-left:none;width:96pt'>Windows</td>
  </tr>
