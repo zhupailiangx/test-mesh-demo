@@ -166,6 +166,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td width=88 style='width:66pt'></td>
  </tr>
  
+ &nbsp;
  windows 14个cpu和20个cpu对比
  
  <table border=0 cellpadding=0 cellspacing=0 width=338 style='border-collapse:
