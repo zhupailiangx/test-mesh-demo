@@ -15,49 +15,6 @@
 * ./run_mesh.bat
 ## Vtune Threading
 
-<table border=0 cellpadding=0 cellspacing=0 width=192 style='border-collapse:
- collapse;table-layout:fixed;width:144pt'>
- <col width=64 span=3 style='width:48pt'>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl67 width=64 style='height:15.0pt;width:48pt'>Metrics</td>
-  <td class=xl71 width=64 style='border-left:none;width:48pt'>Linux</td>
-  <td class=xl71 width=64 style='border-left:none;width:48pt'>Windows</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Ti<span
-  style='display:none'>me</span></td>
-  <td class=xl71 style='border-top:none;border-left:none'>5.383s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective C<span
-  style='display:none'>PU Utilization</span></td>
-  <td class=xl73 style='border-top:none;border-left:none'>6.10%</td>
-  <td class=xl73 style='border-top:none;border-left:none'>23.40%</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and O<span
-  style='display:none'>verhead Time</span></td>
-  <td class=xl71 style='border-top:none;border-left:none'>6.35s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.642</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time <span
-  style='display:none'>with poor CPU Utilization</span></td>
-  <td class=xl71 style='border-top:none;border-left:none'>96.6s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
- </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
- </tr>
- <![endif]>
-</table>
-
-</body>
-
 
 <table border=0 cellpadding=0 cellspacing=0 width=338 style='border-collapse:
  collapse;table-layout:fixed;width:254pt'>
