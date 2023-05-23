@@ -1,7 +1,6 @@
 # test-oneapi-Openmp-MLS
 ## 引言
 本示例旨在分析CPU数量和线程数量在Windows和Linux上对MLS算法的性能影响。
-![20cpus-vtune-windows](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/25dbd00e-580c-42ae-92f8-07ebdf6330fb)
 
 ## Linux
 * source /opt/intel/oneapi/setvars.sh
@@ -18,6 +17,8 @@
 **linux 分析**
 ![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/802944b1-b30f-4498-b124-b0ce32df7408)
 **Windows 分析**
+![20cpus-vtune-windows-final](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/58c57df9-8542-4a14-a5ea-7d7a7aa70ab5)
+
 ![image](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/3a20f2df-27bd-4818-9bde-c98475553704)
 Linux Spin and Overhead 时间长。
 由于Linux系统Vtune Treading分析不能给出线程运行在P核还是E核，所以采用了隔离核的方式进行分析。 
