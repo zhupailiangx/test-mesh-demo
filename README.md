@@ -23,12 +23,12 @@
   <td height=20 class=xl67 width=210 style='height:15.0pt;width:158pt'>Metrics</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Linux</td>
   <td class=xl71 width=64 style='border-left:none;width:48pt'>Windows</td>
-
+ </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
   <td class=xl71 style='border-top:none;border-left:none'>5.383s</td>
   <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
-  <td colspan=4 style='mso-ignore:colspan'></td>
+
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective CPU
