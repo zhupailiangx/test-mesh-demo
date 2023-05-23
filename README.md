@@ -212,6 +212,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <![endif]>
 </table>
  
+### P 核和E核对性能的影响
 
 <table border=0 cellpadding=0 cellspacing=0 width=256  style='border-collapse:
  collapse;table-layout:fixed;width:192pt'>
