@@ -1,6 +1,7 @@
 # test-oneapi-Openmp-MLS
 ## 引言
 本示例旨在分析CPU数量和线程数量在Windows和Linux上对MLS算法的性能影响。
+![20cpus-vtune-windows](https://github.com/zhupailiangx/test-mesh-demo/assets/120553507/25dbd00e-580c-42ae-92f8-07ebdf6330fb)
 
 ## Linux
 * source /opt/intel/oneapi/setvars.sh
