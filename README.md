@@ -40,7 +40,7 @@
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and
   Overhead Time</td>
   <td class=xl71 style='border-top:none;border-left:none'>6.35s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.642</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2.842s</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
