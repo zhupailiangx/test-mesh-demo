@@ -61,16 +61,7 @@
   <td height=20 colspan=6 style='height:15.0pt;mso-ignore:colspan'></td>
   <td class=xl70></td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=210 style='width:158pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
- </tr>
+
  <![endif]>
 </table>
 
