@@ -182,7 +182,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
-  <td class=xl71 style='border-top:none;border-left:none'>3.54</td>
+  <td class=xl71 style='border-top:none;border-left:none'>3.54s</td>
   <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
@@ -230,14 +230,14 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td colspan=4 class=xl68 align='center' style='border-left:none'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>4P</td>
-  <td class=xl68 style='border-top:none;border-left:none'>4E</td>
-  <td class=xl68 style='border-top:none;border-left:none'>1P</td>
-  <td class=xl68 style='border-top:none;border-left:none'>1E</td>
-  <td class=xl68 style='border-top:none;border-left:none'>4P</td>
-  <td class=xl68 style='border-top:none;border-left:none'>4E</td>
-  <td class=xl68 style='border-top:none;border-left:none'>1P</td>
-  <td class=xl68 style='border-top:none;border-left:none'>1E</td>
+  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>P-4cpus</td>
+  <td class=xl68 style='border-top:none;border-left:none'>E-4cpus</td>
+  <td class=xl68 style='border-top:none;border-left:none'>P-1cpu</td>
+  <td class=xl68 style='border-top:none;border-left:none'>E-1cpu</td>
+  <td class=xl68 style='border-top:none;border-left:none'>P-4cpus</td>
+  <td class=xl68 style='border-top:none;border-left:none'>E-4cpus</td>
+  <td class=xl68 style='border-top:none;border-left:none'>P-1cpu</td>
+  <td class=xl68 style='border-top:none;border-left:none'>E-1cpu</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl68 style='height:15.0pt;border-top:none'>1538</td>
