@@ -264,11 +264,11 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
 
 
 
-<table border=0 cellpadding=0 cellspacing=0 width=512 style='border-collapse:
+<table border=0 cellpadding=0 cellspacing=0 width=700 style='border-collapse:
  collapse;table-layout:fixed;width:384pt'>
  <col width=64 span=8 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=8 height=20 class=xl69 width=512 align='center'  style='height:15.0pt;width:384pt'>P
+  <td colspan=8 height=20 class=xl69 width=700 align='center'  style='height:15.0pt;width:384pt'>P
   core VS E core</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
