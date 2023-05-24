@@ -169,51 +169,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <![endif]>
 </table>
 
-### Windows14个cpu和20个cpu对比
- 
- <table border=0 cellpadding=0 cellspacing=0 width=338 style='border-collapse:
- collapse;table-layout:fixed;width:254pt'>
- <col width=210 style='mso-width-source:userset;mso-width-alt:7680;width:158pt'>
- <col width=64 span=2 style='width:48pt'>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl67 width=210 style='height:15.0pt;width:158pt'>Metrics</td>
-  <td class=xl71 width=64 style='border-left:none;width:48pt'>14 cpus</td>
-  <td class=xl71 width=64 style='border-left:none;width:48pt'>20 cpus</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
-  <td class=xl71 style='border-top:none;border-left:none'>3.54s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective CPU
-  Utilization</td>
-  <td class=xl73 style='border-top:none;border-left:none'>17.60%</td>
-  <td class=xl73 style='border-top:none;border-left:none'>23.40%</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and
-  Overhead Time</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.124s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.842s</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
-  poor CPU Utilization</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2.159s</td>
-  <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
- </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=210 style='width:158pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
- </tr>
- <![endif]>
-</table>
- 
- 
- 
+
  <table border=0 cellpadding=0 cellspacing=0 width=376 style='border-collapse:
  collapse;table-layout:fixed;width:282pt'>
  <col width=184 style='mso-width-source:userset;mso-width-alt:6729;width:138pt'>
@@ -299,6 +255,54 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
 
 </body>
  
+
+
+### Windows14个cpu和20个cpu对比
+ 
+ <table border=0 cellpadding=0 cellspacing=0 width=338 style='border-collapse:
+ collapse;table-layout:fixed;width:254pt'>
+ <col width=210 style='mso-width-source:userset;mso-width-alt:7680;width:158pt'>
+ <col width=64 span=2 style='width:48pt'>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl67 width=210 style='height:15.0pt;width:158pt'>Metrics</td>
+  <td class=xl71 width=64 style='border-left:none;width:48pt'>14 cpus</td>
+  <td class=xl71 width=64 style='border-left:none;width:48pt'>20 cpus</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Elapsed Time</td>
+  <td class=xl71 style='border-top:none;border-left:none'>3.54s</td>
+  <td class=xl71 style='border-top:none;border-left:none'>3.398s</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Effective CPU
+  Utilization</td>
+  <td class=xl73 style='border-top:none;border-left:none'>17.60%</td>
+  <td class=xl73 style='border-top:none;border-left:none'>23.40%</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Spin and
+  Overhead Time</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2.124s</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2.842s</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl72 style='height:15.0pt;border-top:none'>Wait Time with
+  poor CPU Utilization</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2.159s</td>
+  <td class=xl71 style='border-top:none;border-left:none'>0.399s</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=210 style='width:158pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+ 
+ 
+ 
+
 ### P 核和E核对性能的影响
 
 
