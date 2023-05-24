@@ -218,21 +218,20 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  collapse;table-layout:fixed;width:384pt'>
  <col width=64 span=8 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=8 height=20 class=xl69 width=512 align='center'  style='height:15.0pt;width:384pt'>P
+  <td colspan=8 height=20 class=xl72 width=512 style='height:15.0pt;width:384pt'>P
   core VS E core</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=4 height=20 class=xl74 align='center'  style='border-right:.5pt solid black;
-  height:15.0pt'>Linux</td>
-  <td colspan=4 class=xl68 align='center' style='border-left:none'>Windows</td>
+  <td colspan=4 height=20 class=xl71 style='height:15.0pt'>Linux</td>
+  <td colspan=4 class=xl71 style='border-left:none'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl71 style='height:15.0pt;border-top:none'>P-4cpus</td>
   <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
   <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
   <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2P</td>
-  <td class=xl71 style='border-top:none;border-left:none'>4E</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-4cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
   <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
   <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
  </tr>
@@ -261,6 +260,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
 </table>
 
 </body>
+
 
 
 
