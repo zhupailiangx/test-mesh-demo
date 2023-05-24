@@ -212,6 +212,93 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <![endif]>
 </table>
  
+ 
+ 
+ <table border=0 cellpadding=0 cellspacing=0 width=376 style='border-collapse:
+ collapse;table-layout:fixed;width:282pt'>
+ <col width=184 style='mso-width-source:userset;mso-width-alt:6729;width:138pt'>
+ <col width=64 span=3 style='width:48pt'>
+ <tr height=20 style='height:15.0pt'>
+  <td colspan=4 height=20 class=xl72 width=376 style='height:15.0pt;width:282pt'>cpu
+  &#25968;&#37327;&#23545;mesh demo &#30340;&#24433;&#21709;</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>&nbsp;</td>
+  <td class=xl65 style='border-top:none;border-left:none'>14cpus</td>
+  <td class=xl65 style='border-top:none;border-left:none'>16cpus</td>
+  <td class=xl65 style='border-top:none;border-left:none'>20cpus</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>1.
+  VoxelGrid&nbsp;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>54</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>
+  <div ccp_infra_version=3 ccp_infra_timestamp=1684893356149 ccp_infra_user_hash=1035841675
+  ccp_infra_copy_id=24dcaf08-182e-4941-9fc8-fbd13d8c1055 data-ccp-timestamp=1684893356149>54</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>
+  <div ccp_infra_version=3 ccp_infra_timestamp=1684893398075 ccp_infra_user_hash=1035841675
+  ccp_infra_copy_id=a76f62c3-581c-4ff6-b022-3853863b17f6 data-ccp-timestamp=1684893398075>54</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>2.
+  StatisticalOutlierRemoval&nbsp;&#8203;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>260</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>288</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>314</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>3.
+  MovingLeastSquares&nbsp;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>850</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>800</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>1106</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>4.
+  NormalEstimation&nbsp;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>251</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>184</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>215</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>5.
+  GreedyProjection3</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>2000</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>1940</td>
+  <td class=xl78 align=right style='border-top:none;border-left:none'>2037</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>3D Mesh (MLS):
+  1,2,3,5&#8203;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>3164</td>
+  <td class=xl79 align=right width=64 style='border-top:none;border-left:none;
+  width:48pt'>3082</td>
+  <td class=xl79 align=right width=64 style='border-top:none;border-left:none;
+  width:48pt'>3511</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>3D Mesh
+  (Normal): 1,2,4,5&#8203;</td>
+  <td class=xl65 align=right style='border-top:none;border-left:none'>2565</td>
+  <td class=xl79 align=right width=64 style='border-top:none;border-left:none;
+  width:48pt'>2466</div>
+  </td>
+  <td class=xl79 align=right width=64 style='border-top:none;border-left:none;
+  width:48pt'>2620</div>
+  </td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=184 style='width:138pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+ 
 ### P 核和E核对性能的影响
 
 
