@@ -214,54 +214,6 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  
 ### P 核和E核对性能的影响
 
-<table border=0 cellpadding=0 cellspacing=0 width=700 style='border-collapse:
- collapse;table-layout:fixed;width:384pt'>
- <col width=64 span=8 style='width:48pt'>
- <tr height=20 style='height:15.0pt'>
-  <td colspan=8 height=20 class=xl72 width=700 style='height:15.0pt;width:384pt'>P
-  core VS E core</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td colspan=4 height=20 class=xl71 style='height:15.0pt'>Linux</td>
-  <td colspan=4 class=xl71 style='border-left:none'>Windows</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl71 style='height:15.0pt;border-top:none'>P-4cpus</td>
-  <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
-  <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
-  <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
-  <td class=xl71 style='border-top:none;border-left:none'>P-4cpus</td>
-  <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
-  <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
-  <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
- </tr>
- <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl71 style='height:15.0pt;border-top:none'>1538</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2235</td>
-  <td class=xl71 style='border-top:none;border-left:none'>4319</td>
-  <td class=xl71 style='border-top:none;border-left:none'>7884</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2126</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2738</td>
-  <td class=xl65 align=right style='border-top:none;border-left:none'>5568</td>
-  <td class=xl65 align=right style='border-top:none;border-left:none'>9313</td>
- </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
-  <td width=64 style='width:48pt'></td>
- </tr>
- <![endif]>
-</table>
-
-</body>
-
-
 
 
 <table border=0 cellpadding=0 cellspacing=0 width=700 style='border-collapse:
