@@ -175,7 +175,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  <col width=184 style='mso-width-source:userset;mso-width-alt:6729;width:138pt'>
  <col width=64 span=3 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=4 height=20 class=xl72 width=376 style='height:15.0pt;width:282pt'>cpu
+  <td colspan=4 height=20 class=xl72 width=376 align='center' style='height:15.0pt;width:282pt'>cpu
   &#25968;&#37327;&#23545;mesh demo &#30340;&#24433;&#21709;</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
