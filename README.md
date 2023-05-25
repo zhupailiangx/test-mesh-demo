@@ -312,13 +312,13 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
  collapse;table-layout:fixed;width:528pt'>
  <col width=64 span=11 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=11 height=20 class=xl77 width=704 style='height:15.0pt;
+  <td colspan=11 height=20 class=xl77 width=704 align='center' style='height:15.0pt;
   width:528pt'>P core VS E core</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
   <td height=20 class=xl65 style='height:15.0pt;border-top:none'>&nbsp;</td>
-  <td colspan=5 class=xl71 style='border-left:none'>Linux</td>
-  <td colspan=5 class=xl78 style='border-right:.5pt solid black;border-left:
+  <td colspan=5 class=xl71 align='center' style='border-left:none'>Linux</td>
+  <td colspan=5 class=xl78 align='center' style='border-right:.5pt solid black;border-left:
   none'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
