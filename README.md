@@ -308,37 +308,75 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
 
 
 
-<table border=0 cellpadding=0 cellspacing=0 width=700 style='border-collapse:
- collapse;table-layout:fixed;width:384pt'>
- <col width=64 span=8 style='width:48pt'>
+<table border=0 cellpadding=0 cellspacing=0 width=704 style='border-collapse:
+ collapse;table-layout:fixed;width:528pt'>
+ <col width=64 span=11 style='width:48pt'>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=8 height=20 class=xl69 width=700 align='center'  style='height:15.0pt;width:384pt'>P
-  core VS E core</td>
+  <td colspan=11 height=20 class=xl77 width=704 style='height:15.0pt;
+  width:528pt'>P core VS E core</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td colspan=4 height=20 class=xl74 align='center'  style='border-right:.5pt solid black;
-  height:15.0pt'>Linux</td>
-  <td colspan=4 class=xl68 align='center' style='border-left:none'>Windows</td>
+  <td height=20 class=xl65 style='height:15.0pt;border-top:none'>&nbsp;</td>
+  <td colspan=5 class=xl71 style='border-left:none'>Linux</td>
+  <td colspan=5 class=xl78 style='border-right:.5pt solid black;border-left:
+  none'>Windows</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>P-4cpus</td>
-  <td class=xl68 style='border-top:none;border-left:none'>E-4cpus</td>
-  <td class=xl68 style='border-top:none;border-left:none'>P-1cpu</td>
-  <td class=xl68 style='border-top:none;border-left:none'>E-1cpu</td>
-  <td class=xl68 style='border-top:none;border-left:none'>P-4cpus</td>
-  <td class=xl68 style='border-top:none;border-left:none'>E-4cpus</td>
-  <td class=xl68 style='border-top:none;border-left:none'>P-1cpu</td>
-  <td class=xl68 style='border-top:none;border-left:none'>E-1cpu</td>
+  <td rowspan=2 height=40 class=xl71 style='height:30.0pt;border-top:none'>&#36923;&#36753;&#26680;</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-4cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
+  <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-12cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-4cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>E-4cpus</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-1cpu</td>
+  <td class=xl71 style='border-top:none;border-left:none'>E-1cpu</td>
+  <td class=xl71 style='border-top:none;border-left:none'>P-12cpus</td>
  </tr>
  <tr height=20 style='height:15.0pt'>
-  <td height=20 class=xl68 style='height:15.0pt;border-top:none'>1538</td>
-  <td class=xl68 style='border-top:none;border-left:none'>2235</td>
-  <td class=xl68 style='border-top:none;border-left:none'>4319</td>
-  <td class=xl68 style='border-top:none;border-left:none'>7884</td>
-  <td class=xl68 style='border-top:none;border-left:none'>2126</td>
-  <td class=xl68 style='border-top:none;border-left:none'>2738</td>
-  <td class=xl68 style='border-top:none;border-left:none'>5565</td>
-  <td class=xl68 style='border-top:none;border-left:none'>9313</td>
+  <td height=20 class=xl71 style='height:15.0pt;border-top:none;border-left:
+  none'>1538</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2235</td>
+  <td class=xl71 style='border-top:none;border-left:none'>4319</td>
+  <td class=xl71 style='border-top:none;border-left:none'>7884</td>
+  <td class=xl71 style='border-top:none;border-left:none'>640</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2126</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2738</td>
+  <td class=xl71 style='border-top:none;border-left:none'>5568</td>
+  <td class=xl71 style='border-top:none;border-left:none'>9313</td>
+  <td class=xl71 style='border-top:none;border-left:none'>1046</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td rowspan=2 height=40 class=xl81 style='border-bottom:.5pt solid black;
+  height:30.0pt;border-top:none'>&#29289;&#29702;&#26680;</td>
+  <td class=xl71 style='border-top:none;border-left:none'>4P<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl71 style='border-top:none;border-left:none'>4E<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl71 style='border-top:none;border-left:none'>1P</td>
+  <td class=xl71 style='border-top:none;border-left:none'>1E</td>
+  <td class=xl71 style='border-top:none;border-left:none'>12-P+E</td>
+  <td class=xl71 style='border-top:none;border-left:none'>4P<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl71 style='border-top:none;border-left:none'>4E<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl71 style='border-top:none;border-left:none'>1P</td>
+  <td class=xl71 style='border-top:none;border-left:none'>1E</td>
+  <td class=xl71 style='border-top:none;border-left:none'>12-P+E</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl71 style='height:15.0pt;border-top:none;border-left:
+  none'>1188</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2192</td>
+  <td class=xl71 style='border-top:none;border-left:none'>4301</td>
+  <td class=xl71 style='border-top:none;border-left:none'>7698</td>
+  <td class=xl71 style='border-top:none;border-left:none'>600</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2424</td>
+  <td class=xl71 style='border-top:none;border-left:none'>2819</td>
+  <td class=xl71 style='border-top:none;border-left:none'>5569</td>
+  <td class=xl71 style='border-top:none;border-left:none'>9304</td>
+  <td class=xl71 style='border-top:none;border-left:none'>988</td>
  </tr>
  <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
@@ -350,12 +388,12 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
   <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
  </tr>
  <![endif]>
 </table>
-
-
-
 
 ## 总结
 * Linux在20个核和20个线程的参数下，性能最佳
