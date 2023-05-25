@@ -372,7 +372,7 @@ MLS算法采用30次循环实验，取平均时间作为对比指标
   <td class=xl71 style='border-top:none;border-left:none'>4301</td>
   <td class=xl71 style='border-top:none;border-left:none'>7698</td>
   <td class=xl71 style='border-top:none;border-left:none'>600</td>
-  <td class=xl71 style='border-top:none;border-left:none'>2424</td>
+  <td class=xl71 style='border-top:none;border-left:none'>1725</td>
   <td class=xl71 style='border-top:none;border-left:none'>2819</td>
   <td class=xl71 style='border-top:none;border-left:none'>5569</td>
   <td class=xl71 style='border-top:none;border-left:none'>9304</td>
